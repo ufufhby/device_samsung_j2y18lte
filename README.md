@@ -1,1 +1,1 @@
-# device_samsung_j2y18lte
+Device Tree for Samsung Galaxy J2 Pro (SM-J250F)
